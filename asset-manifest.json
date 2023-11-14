@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-facts-rework/static/css/main.7d71abb5.css",
+    "main.js": "/react-facts-rework/static/js/main.10de578e.js",
+    "index.html": "/react-facts-rework/index.html",
+    "main.7d71abb5.css.map": "/react-facts-rework/static/css/main.7d71abb5.css.map",
+    "main.10de578e.js.map": "/react-facts-rework/static/js/main.10de578e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d71abb5.css",
+    "static/js/main.10de578e.js"
+  ]
+}
