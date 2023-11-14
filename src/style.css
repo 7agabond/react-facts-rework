@@ -150,3 +150,16 @@ main.dark {
   font-size: 1.4rem;
   color: #61dafb;
 }
+
+.footer--container {
+  background-color: rgb(21, 22, 26);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+  text-align: right;
+}
+
+.footer--container > small {
+  color: white;
+}
